@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - coin
+  - banner
+  - objectT
+  - selectionTaskStart
+  - done
+  - objectInteractionTask
+  - FingerTip
+  - LeftRotationTrigger
+  - RightRotationTrigger
+  - SelectionTrigger
+  - MovingTrigger
+  - SelectionInteraction
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - HandCollider
+  - Water
+  - UI
+  - locomotion
+  - FingerTips
+  - Hand
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
